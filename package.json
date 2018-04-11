@@ -1,11 +1,11 @@
 {
-    "name": "@remobile/react-native-update",
+    "name": "@ximigame/react-native-update",
     "version": "1.1.0",
     "description": "Update js version and app version for ios and android",
     "main": "index.js",
     "author": {
-        "name": "YunJiang.Fang",
-        "email": "42550564@qq.com"
+        "name": "ximigame",
+        "email": "yangdan@ximigame.com"
     },
     "license": "MIT",
     "keywords": [
@@ -14,17 +14,15 @@
         "ios",
         "android",
         "update",
-        "position",
-        "remobile",
-        "mobile"
+        "position"
     ],
-    "homepage": "https://github.com/remobile/react-native-update",
+    "homepage": "https://github.com/ximigame/react-native-update",
     "bugs": {
-        "url": "https://github.com/remobile/react-native-update/issues"
+        "url": "https://github.com/ximigame/react-native-update/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/remobile/react-native-update.git"
+        "url": "git://github.com/ximigame/react-native-update.git"
     },
     "peerDependencies": {
         "@remobile/react-native-zip": "^1.0.4",

@@ -3,7 +3,8 @@ Update js version and app version for ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-update --save
+# npm install @remobile/react-native-update --save
+npm install https://github.com/ximigame/react-native-update.git --save-dev
 ```
 
 ### Installation (iOS)

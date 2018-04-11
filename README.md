@@ -1,4 +1,4 @@
-# React Native Update (remobile)
+# React Native Update (ximigame)
 Update js version and app version for ios and android
 
 ## Installation
